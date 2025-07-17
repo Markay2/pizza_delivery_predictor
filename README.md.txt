@@ -2,6 +2,10 @@
 
 A machine learning web application that predicts pizza delivery duration based on various factors like pizza type, distance, traffic conditions, and more.
 
+### Live Demo
+
+**[View Live Application](https://pizzadeliverypredictor.streamlit.app/)**
+
 ## 📁 Project Structure
 
 
@@ -111,4 +115,3 @@ See `requirements.txt` for a complete list of dependencies.
 ### Contact
 
 Mark Ata Adu - mark-ata.adu@epita.fr
-Project Link: https://pizzadeliverypredictor.streamlit.app
