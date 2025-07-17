@@ -50,7 +50,7 @@ The model uses the following features to predict delivery time:
 
 ### Live Demo
 
-[Your Streamlit app URL will go here after deployment]
+https://pizzadeliverypredictor.streamlit.app/
 
 ### Local Development
 
