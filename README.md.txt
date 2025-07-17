@@ -111,4 +111,4 @@ See `requirements.txt` for a complete list of dependencies.
 ### Contact
 
 Mark Ata Adu - mark-ata.adu@epita.fr
-Project Link: https://github.com/Markay2/pizza-delivery-predictor
+Project Link: https://pizzadeliverypredictor.streamlit.app
